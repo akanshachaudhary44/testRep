@@ -5,5 +5,6 @@ public class Lab004_Comments {
 //        exit code 0 means program is successful but output is 0
 //        This is a comment line. it will not execute
 //        System.out.println("Hi");  single comment
+//        hjgmh
     }
 }
